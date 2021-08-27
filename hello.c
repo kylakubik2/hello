@@ -11,7 +11,6 @@
  int main(int argc, char **argv) {
 
      printf("Kyla Kubik!\n");
-
      printf("Mechanical Engineering\n");
 
      return 0;
